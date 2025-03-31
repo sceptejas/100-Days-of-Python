@@ -1,0 +1,1 @@
+myFavNum = 99
